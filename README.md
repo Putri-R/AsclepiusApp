@@ -1,6 +1,6 @@
 # Asclepius App - Mobile App
 Repository for Dicoding Submission "Belajar Penerapan Machine Learning untuk Android"  
-MSIB Kampus Merdeka Batch 6 - Bangkit Academy
+MSIB Kampus Merdeka Batch 6 - Bangkit Academy 2024
 
 ![GitHub_Putri-R_Asclepius](https://github.com/Putri-R/AsclepiusApp/assets/125380130/6993dfe4-5b71-4c80-b157-b70b3781f01a)
 
